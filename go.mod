@@ -1,4 +1,4 @@
-module github.com/zqhhh/pcap
+module github.com/0look/pcap
 
 go 1.20
 
